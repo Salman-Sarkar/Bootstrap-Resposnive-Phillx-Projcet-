@@ -1,0 +1,36 @@
+.navbar {
+  border-bottom: 3px solid #008ed6;
+  background: #292b2c;
+
+}
+
+
+/* #home-section\ {
+
+    background-image: url("img/home.jpg");
+
+} */
+#home-section {
+  background: url("img/home.jpg");
+}
+
+
+.home-inner {
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+
+#explore-article {
+
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+#create-main-section {
+  color: #fff;
+  background: #333;
+
+}
